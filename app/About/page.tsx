@@ -83,9 +83,10 @@ const AboutMe = () => {
         >
           <h2 className="text-4xl md:text-5xl font-extrabold text-purple-500 mb-6">About Me</h2>
           <p className="text-gray-300 mb-10 leading-relaxed text-base md:text-lg">
-            Hello, I'm <span className="text-purple-400 font-medium">Ayan Sharma</span>, passionate about building smart and scalable web & mobile applications.
-            I've completed a full-stack development course and constantly explore new technologies to refine my skills.
-            Focused on continuous learning, I aim to transition into the IT industry by 2027 and eventually move towards AI and data science.
+            Hello, I'm <span className="text-purple-400 font-medium">Ayan Sharma</span>,
+            Passionate about solving real-world problems through technology, eager to learn industry challenges, and
+build impactful software solutions. I am seeking an internship to gain hands-on experience and grow as a
+developer.
           </p>
 
           <div className="flex flex-wrap justify-center gap-4 mb-14">
