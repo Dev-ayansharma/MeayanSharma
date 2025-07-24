@@ -17,7 +17,7 @@ export const projectData: Project[] = [
       'mssgsent is a Next.js and TypeScript-powered web application that allows users to send messages to themselves, store them securely, and receive reminders. It also features AI-powered message suggestions using the Cohere AI API.',
     technologies: ['Next.js', 'React', 'TypeScript',' MongoDB', 'Expressjs','Brevo','NextAuth','Cohere AI','Vercel'],
     liveLink: 'https://mssgsent.vercel.app/',
-    githubLink: 'https://github.com/helloayan14/mssgsent',
+    githubLink: 'https://github.com/Dev-ayansharma/mssgsent',
     image: '/project2.png',
     
     features: [
@@ -36,8 +36,8 @@ export const projectData: Project[] = [
     description:
       'Reelise is a reel upload platform built with Next.js, NextAuth for authentication, ImageKit for media storage, and DaisyUI for styling.',
     technologies: ['Next.js', 'React', 'TypeScript','NextAuth','Daisy UI','ImageKit','Vercel'],
-    liveLink: 'https://github.com/helloayan14/Reelise',
-    githubLink: 'https://github.com/helloayan14/Reelise',
+    liveLink: 'hhttps://reelise.vercel.app/',
+    githubLink: 'https://github.com/Dev-ayansharma/Reelise',
     image: '/project1.png',
     
     features: [
@@ -57,7 +57,7 @@ export const projectData: Project[] = [
       'A blog platform with React and Vite',
     technologies: [ 'React', 'Javascript' ,'Tailwind Css' ,'Vite','Appwrite','Vercel'],
     liveLink: 'https://as-blogs.vercel.app/',
-    githubLink: 'https://github.com/helloayan14/As-Blogs',
+    githubLink: 'https://github.com/Dev-ayansharma/As-Blogs',
     image: '/project3.png',
  features: [
   '📦 Used Redux Toolkit for efficient state management',
@@ -74,7 +74,7 @@ export const projectData: Project[] = [
       'A Full stack application or Hub for the mcp servers where user can submit,edit,delete or explore the servers',
     technologies: [ 'React', 'Javascript' ,'Tailwind Css' ,'Vite','Express','MongoDB','Vercel'],
     liveLink: 'https://mcp-central.vercel.app/',
-    githubLink: 'https://github.com/helloayan14',
+    githubLink: 'https://github.com/Dev-ayansharma/mcp-central',
     image: '/project4.png',
     
     features: [
@@ -87,5 +87,20 @@ export const projectData: Project[] = [
 ],
 
   },
+
+   {
+    slug: 'DevCollab-Ai',
+    title: 'MCP Central',
+    description:
+      'A Automatically assign your technical issues to skilled moderators. Get help faster with intelligent ticket routing and real-time collaboration.',
+    technologies: [ 'React', 'Javascript' ,'Tailwind Css' ,'Vite','Express','MongoDB','Vercel','Inngest','Gemini Ai'],
+    liveLink: 'https://dev-collab-ai.vercel.app/',
+    githubLink: 'https://github.com/Dev-ayansharma/DevCollab-Ai',
+    image: '/project5.png',
+    
+    features: [
+      
+    ]
+   }
 
 ];

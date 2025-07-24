@@ -63,6 +63,14 @@ const projects = [
     liveLink: 'https://mcp-central.vercel.app/',
     slug: 'mcp-central',
   },
+  { 
+    title: 'DevCollab Ai',
+    description: 'Automatically assign your technical issues to skilled moderators..',
+    image: '/project5.png',
+    liveLink: 'https://dev-collab-ai.vercel.app/',
+    slug: 'devcollab-ai',
+
+  },
   
 ];
 

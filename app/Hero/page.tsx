@@ -109,7 +109,7 @@ const Hero = () => {
             transition={{ delay: 1.2, duration: 0.6 }}
             className="flex gap-4 mt-4 text-2xl"
           >
-            <Button link="https://github.com/helloayan14" Icon={FaGithub} width="50px" height="35px" targett='_blank' />
+            <Button link="https://github.com/Dev-ayansharma" Icon={FaGithub} width="50px" height="35px" targett='_blank' />
             <Button link="https://www.linkedin.com/in/imayansharma/" Icon={FaLinkedin} width="50px" height="35px" targett='_blank' />
             <Button link="https://x.com/imayansharma" Icon={FaTwitter} width="50px" height="35px" targett='_blank' />
           </motion.div>
