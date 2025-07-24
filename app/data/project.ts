@@ -89,8 +89,8 @@ export const projectData: Project[] = [
   },
 
    {
-    slug: 'DevCollab-Ai',
-    title: 'MCP Central',
+    slug: 'devcollab-ai',
+    title: 'DevCollab-Ai',
     description:
       'A Automatically assign your technical issues to skilled moderators. Get help faster with intelligent ticket routing and real-time collaboration.',
     technologies: [ 'React', 'Javascript' ,'Tailwind Css' ,'Vite','Express','MongoDB','Vercel','Inngest','Gemini Ai'],
@@ -99,7 +99,11 @@ export const projectData: Project[] = [
     image: '/project5.png',
     
     features: [
-      
+      'Register and log in securely',
+      'Create and manage tickets',
+      'Assign tickets to moderators',
+      'Monitor ticket progress',
+      'Assigning with Ai to find out best moderators that will help the users'
     ]
    }
 
